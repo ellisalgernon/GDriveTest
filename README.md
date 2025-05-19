@@ -7,7 +7,7 @@ Includes:
   * SKSE
   * USSEP
   * MO plugin "sync plugins"
-* ### The stubborn mods hosted on GDrive, all whitelisted here https://github.com/wabbajack-tools/opt-out-lists/blob/master/ServerWhitelist.yml
+* ### Some stubborn mods hosted on GDrive, all whitelisted here https://github.com/wabbajack-tools/opt-out-lists/blob/master/ServerWhitelist.yml
   * Mofu_EldenRing Attack Animations Axe SE MCO.zip
     * https://drive.google.com/uc?id=1UV8Xm4QcfoSVhToAN7bnEUOS-ndzBUPC&export=download
   * Mofu EldenRing Attack Animations Dual Wield SE MCO.zip
