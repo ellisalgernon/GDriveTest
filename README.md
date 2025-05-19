@@ -1,7 +1,7 @@
 # GDriveTest
 Minimal working example to test GDrive automated downloads.
 
-Imcludes:
+Includes:
 * ### Some "sanity check" examples to make sure the process is working in principle:
   * SKSE
   * USSEP
