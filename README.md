@@ -1,5 +1,6 @@
 # GDriveTest
 Minimal working example to test GDrive automated downloads. For SSE v1.6.1170, no downgrade or CC content required.
+* https://drive.google.com/uc?id=1YUsw1qjJVUdRRMz1hjLh5h0ifMj7d6Uq&export=download
 
 Includes:
 * ### Some "sanity check" examples to make sure the process is working in principle:
