@@ -1,5 +1,5 @@
 # GDriveTest
-Minimal working example to test GDrive automated downloads.
+Minimal working example to test GDrive automated downloads. For SSE v1.6.1170, no downgrade or CC content required.
 
 Includes:
 * ### Some "sanity check" examples to make sure the process is working in principle:
